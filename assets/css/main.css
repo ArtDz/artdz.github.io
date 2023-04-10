@@ -367,6 +367,9 @@ h4 {
   z-index: 10;
   background-color: transparent;
 }
+.main-slider-item img {
+  width: 100%;
+}
 .main-slider-btn img {
   width: 100%;
 }
